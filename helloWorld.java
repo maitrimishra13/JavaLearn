@@ -5,3 +5,11 @@ public class helloWorld{
         System.out.println(args[2]);
     }
 }
+/*so arguments me multiple words strong likhni hai and then it'll print the according to word-indexing
+eg. 
+PS D:\JavaLearn> javac helloWorld.java
+PS D:\JavaLearn> java helloWorld Hemangi loves chocolates and spice
+Hello World
+Hemangi
+chocolates
+*/
